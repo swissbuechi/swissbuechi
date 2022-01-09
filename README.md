@@ -25,9 +25,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Welcome to my new techblog](https://swissbuechi.github.io/announcements/welcome-to-my-techblog/)
-
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://swissbuechi.github.io)
