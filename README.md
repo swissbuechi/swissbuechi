@@ -33,7 +33,8 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+
+<summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 
@@ -42,9 +43,10 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="swissbuechi's GitHub Stats" src="https://github-readme-stats.swissbuechi.vercel.app/api?username=swissbuechi&show_icons=true&hide_border=true" />
+<summary>:zap: GitHub Stats</summary>
+
+[![swissbuechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=swissbuechi&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
