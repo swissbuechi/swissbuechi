@@ -4,8 +4,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="swissbuechi.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="fuu_12_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img src=icons/web.svg>][website]
+[<img src=icons/email.svg>][email]
+[<img src=icons/instagram.svg>][instagram]
 
 [//]: # (<br />)
 
@@ -18,7 +19,8 @@
 [//]: # ([<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist])
 
 [//]: # (<br />)
-<br />
+
+[//]: # (<br />)
 
 ### 📕 Latest Blog Posts
 
@@ -46,10 +48,12 @@
 
 <summary>:zap: GitHub Stats</summary>
 
-[![swissbuechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=swissbuechi&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![swissbuechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=swissbuechi&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
 [website]: https://swissbuechi.github.io
+
+[email]: mailto:raphael.buechi@hotmail.com
 
 [instagram]: https://instagram.com/fuu_12_
