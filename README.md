@@ -5,7 +5,6 @@
 ### Connect with me:
 
 [<img src=icons/web.svg>][website]
-[<img src=icons/email.svg>][email]
 [<img src=icons/instagram.svg>][instagram]
 
 [//]: # (<br />)
@@ -66,7 +65,5 @@
 [//]: # (</details>)
 
 [website]: https://swissbuechi.github.io
-
-[email]: mailto:raphael.buechi@hotmail.com
 
 [instagram]: https://instagram.com/fuu_12_
