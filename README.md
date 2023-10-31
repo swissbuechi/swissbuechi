@@ -1,23 +1,23 @@
 ### Hi there, I'm Raphi - aka [swissbuechi][website] 👋
 
-[![Website](https://img.shields.io/website?label=swissbuechi.github.io&style=for-the-badge&url=https%3A%2F%2Fswissbuechi.github.io)](https://swissbuechi.github.io)
-
-### Connect with me
-
-[<img src=icons/web.svg>][website]
-[<img src=icons/instagram.svg>][instagram]
+[<img src=icons/github.svg>][github]
+[<img src=icons/linkedin.svg>][linkedin]
 [<img src=icons/reddit.svg>][reddit]
+[<img src=icons/twitter.svg>][twitter]
 [<img src=icons/stackoverflow.svg>][stackoverflow]
 [<img src=icons/microsoft.svg>][microsoftlearn]
-[<img src=icons/linkedin.svg>][linkedin]
-[<img src=icons/twitter.svg>][twitter]
+[<img src=icons/rss.svg>][rss]
+[<img src=icons/instagram.svg>][instagram]
+[<img src=icons/web.svg>][website]
 [<img src=icons/email.svg>][email]
-[<img src=icons/github.svg>][github]
 
+**I am a:** IT Enthusiast, Snowboarder, Hip-Hop DJ, Breakdancer<br>
+**I work as:** Software Engineer at [netider.ch it solutions](https://netider.ch), System Engineer at [axelion AG](https://axelion.ch), Cloud Engineer at `null`<br>
+**I work on:** Automation, Security (Infrastructure, Software), Cloud Migrations, Endpoint Management<br>
+**Tools I use:** Terraform, Vue, Java, Go, Powershell, Bash<br>
+**Cloud technologies I know very well:** Azure, Google Cloud Platform<br>
+**I'm not a fan of:** Over engineering, ClickOps
 
-<!-- ### Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> -->
 
 ### 📕 Latest Blog Posts
 
@@ -37,19 +37,12 @@
 
 
 [website]: https://swissbuechi.github.io
-
+[rss]: https://swissbuechi.github.io/feed.xml
 [reddit]: https://www.reddit.com/user/swissbuechi
-
 [stackoverflow]: https://stackoverflow.com/users/12172680/swissbuechi
-
 [microsoftlearn]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1824419#profile
-
 [linkedin]: https://ch.linkedin.com/in/swissbuechi?trk=public_profile_browsemap
-
 [twitter]: https://twitter.com/swissbuechi
-
 [email]: mailto:info@netider.ch
-
 [github]: https://github.com/swissbuechi
-
 [instagram]: https://instagram.com/fuu_12_
