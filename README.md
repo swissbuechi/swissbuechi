@@ -22,6 +22,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boilerplates and Tools](https://swissbuechi.github.io/announcements/resources/)
 - [Welcome to my new techblog](https://swissbuechi.github.io/announcements/welcome-to-my-techblog/)
 <!-- BLOG-POST-LIST:END -->
 
