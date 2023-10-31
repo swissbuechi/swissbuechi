@@ -2,17 +2,17 @@
 
 [![Website](https://img.shields.io/website?label=swissbuechi.github.io&style=for-the-badge&url=https%3A%2F%2Fswissbuechi.github.io)](https://swissbuechi.github.io)
 
-### Connect with me:
+### Connect with me
 
-[<img src=icons/web.svg style="height:24px; width: auto">][website]
-[<img src=icons/instagram.svg style="height:24px; width: auto">][instagram]
-[<img src=icons/reddit.svg style="height:24px; width: auto">][reddit]
-[<img src=icons/stackoverflow.svg style="height:24px; width: auto">][stackoverflow]
-[<img src=icons/microsoft.svg style="height:24px; width: auto">][microsoftlearn]
-[<img src=icons/linkedin.svg style="height:24px; width: auto">][linkedin]
-[<img src=icons/twitter.svg style="height:24px; width: auto">][twitter]
-[<img src=icons/email.svg style="height:24px; width: auto">][email]
-[<img src=icons/github.svg style="height:24px; width: auto">][github]
+[<img src=icons/web.svg>][website]
+[<img src=icons/instagram.svg>][instagram]
+[<img src=icons/reddit.svg>][reddit]
+[<img src=icons/stackoverflow.svg>][stackoverflow]
+[<img src=icons/microsoft.svg>][microsoftlearn]
+[<img src=icons/linkedin.svg>][linkedin]
+[<img src=icons/twitter.svg>][twitter]
+[<img src=icons/email.svg>][email]
+[<img src=icons/github.svg>][github]
 
 
 <!-- ### Languages and Tools:
