@@ -39,38 +39,11 @@
 
 ---
 
-### 🏆 Github Profile Trophy
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=swissbuechi&column=8&no-frame=true"/>
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=swissbuechi&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swissbuechi&layout=compact" />
 </div>
 
-[//]: # (<details>)
-
-[//]: # ()
-[//]: # (<summary>:zap: Recent GitHub Activity</summary>)
-
-[//]: # ()
-[//]: # (<!--START_SECTION:activity-->)
-
-[//]: # ()
-[//]: # (<!--END_SECTION:activity-->)
-
-[//]: # ()
-[//]: # (</details>)
-
-[//]: # ()
-[//]: # (<details>)
-
-[//]: # ()
-[//]: # (<summary>:zap: GitHub Stats</summary>)
-
-[//]: # ()
-[//]: # ([![swissbuechi's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=swissbuechi&show_icons=true&count_private=true&theme=dark&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
-
-[//]: # ()
-[//]: # (</details>)
 
 [website]: https://swissbuechi.github.io
 
