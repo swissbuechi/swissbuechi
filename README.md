@@ -16,8 +16,13 @@
 **I work on:** Automation, Security (Infrastructure, Software), Cloud Migrations, Endpoint Management<br>
 **Tools I use:** Terraform, Vue, Java, Go, Powershell, Bash<br>
 **Cloud technologies I know very well:** Azure, Google Cloud Platform<br>
-**I'm not a fan of:** Over engineering, ClickOps
+**I'm not a fan of:** Overengineering, ClickOps
 
+🔐 You need to securely send encrypted one time messages? Passwords, certificates, keys? <br>
+👉🏻 Checkout [one-time-secret](https://github.com/swissbuechi/one-time-secret)
+
+📋 You want to secure your Microsoft Entra ID (Azure AD) tenant? Exchange Online, SharePoint Online or Entra ID? <br>
+👉🏻 Checkout [AzureAdDeployer](https://github.com/swissbuechi/AzureAdDeployer)
 
 ### 📕 Latest Blog Posts
 
