@@ -4,8 +4,16 @@
 
 ### Connect with me:
 
-[<img src=icons/web.svg>][website]
-[<img src=icons/instagram.svg>][instagram]
+[<img src=icons/web.svg style="height:24px; width: auto">][website]
+[<img src=icons/instagram.svg style="height:24px; width: auto">][instagram]
+[<img src=icons/reddit.svg style="height:24px; width: auto">][reddit]
+[<img src=icons/stackoverflow.svg style="height:24px; width: auto">][stackoverflow]
+[<img src=icons/microsoft.svg style="height:24px; width: auto">][microsoftlearn]
+[<img src=icons/linkedin.svg style="height:24px; width: auto">][linkedin]
+[<img src=icons/twitter.svg style="height:24px; width: auto">][twitter]
+[<img src=icons/email.svg style="height:24px; width: auto">][email]
+[<img src=icons/github.svg style="height:24px; width: auto">][github]
+
 
 [//]: # (<br />)
 
@@ -65,5 +73,19 @@
 [//]: # (</details>)
 
 [website]: https://swissbuechi.github.io
+
+[reddit]: https://www.reddit.com/user/swissbuechi
+
+[stackoverflow]: https://stackoverflow.com/users/12172680/swissbuechi
+
+[microsoftlearn]: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1824419#profile
+
+[linkedin]: https://ch.linkedin.com/in/swissbuechi?trk=public_profile_browsemap
+
+[twitter]: https://twitter.com/swissbuechi
+
+[email]: mailto:info@netider.ch
+
+[github]: https://github.com/swissbuechi
 
 [instagram]: https://instagram.com/fuu_12_
