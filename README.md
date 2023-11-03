@@ -18,19 +18,19 @@
 **Cloud technologies I know very well:** Azure, Google Cloud Platform<br>
 **I'm not a fan of:** Overengineering, ClickOps
 
-<strong>Projects</strong> <br>
-🔐 You need to securely send encrypted one time messages? Passwords, certificates, keys?
-👉🏻 Checkout [one-time-secret](https://github.com/swissbuechi/one-time-secret)<br>
-📋 You want to secure your Microsoft Entra ID (Azure AD) tenant? Exchange Online, SharePoint Online or Entra ID?
-👉🏻 Checkout [AzureAdDeployer](https://github.com/swissbuechi/AzureAdDeployer)
+<strong>Projects</strong><br>
+🔐 You need to securely send encrypted one time messages? Passwords, keys?
+👉🏻 [one-time-secret](https://github.com/swissbuechi/one-time-secret)<br>
+📋 You want to secure your Microsoft Entra ID tenant? EXO, SPO or Entra ID?
+👉🏻 [AzureAdDeployer](https://github.com/swissbuechi/AzureAdDeployer)
 
-<strong>Contributions</strong> <br>
+<strong>Contributions</strong><br>
 💻 Homebrew is nr. 1 macOS package manager to install and update all kind of applicaitons.
-👉🏻 Checkout [homebrew-autoupdate](https://github.com/homebrew/homebrew-autoupdate) for auto updates of your apps <br>
+👉🏻 [homebrew-autoupdate](https://github.com/homebrew/homebrew-autoupdate)<br>
 🤖 Using github dependabot and noticed it's not updating your `docker-compose.yml` files?
-👉🏻 Checkout [simple-compose-service-updates](https://github.com/sbe-arg/simple-compose-service-updates)
+👉🏻 [simple-compose-service-updates](https://github.com/sbe-arg/simple-compose-service-updates)
 
-<strong> 📕 Latest Blog Posts </strong>
+<strong>📕 Latest Blog Posts</strong>
 
 <!-- BLOG-POST-LIST:START -->
 - [Boilerplates and Tools](https://swissbuechi.github.io/announcements/resources/)
