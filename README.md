@@ -25,7 +25,7 @@
 👉🏻 [AzureAdDeployer](https://github.com/swissbuechi/AzureAdDeployer)
 
 **Contributions**<br>
-💻 Homebrew is nr. 1 macOS package manager to install and update all kind of applicaitons.
+💻 Homebrew is the Nr. 1 macOS package manager to install and update all kind of applicaitons.
 👉🏻 [homebrew-autoupdate](https://github.com/homebrew/homebrew-autoupdate)<br>
 🤖 Using github dependabot and noticed it's not updating your `docker-compose.yml` files?
 👉🏻 [simple-compose-service-updates](https://github.com/sbe-arg/simple-compose-service-updates)
