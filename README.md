@@ -24,7 +24,7 @@
 📋 You want to secure your Microsoft Entra ID tenant? EXO, SPO or Entra ID?
 👉🏻 [AzureAdDeployer](https://github.com/swissbuechi/AzureAdDeployer)
 
-**Contributions**br>
+**Contributions**<br>
 💻 Homebrew is nr. 1 macOS package manager to install and update all kind of applicaitons.
 👉🏻 [homebrew-autoupdate](https://github.com/homebrew/homebrew-autoupdate)<br>
 🤖 Using github dependabot and noticed it's not updating your `docker-compose.yml` files?
