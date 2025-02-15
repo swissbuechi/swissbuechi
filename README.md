@@ -25,6 +25,8 @@
 👉🏻 [AzureAdDeployer](https://github.com/swissbuechi/AzureAdDeployer)
 
 **Contributions**<br>
+💸 YNAB Financial Independence - Retire Early (FIRE) Calculator
+👉🏻 [beyond-rule-4](https://github.com/JackMorrissey/beyond-rule-4)<br>
 💻 Homebrew is the Nr. 1 macOS package manager to install and update all kind of applicaitons.
 👉🏻 [homebrew-autoupdate](https://github.com/homebrew/homebrew-autoupdate)<br>
 🤖 Using github dependabot and noticed it's not updating your `docker-compose.yml` files?
