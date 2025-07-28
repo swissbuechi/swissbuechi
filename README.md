@@ -8,7 +8,7 @@
 [<img src=icons/web.svg>][website]
 
 **I am a:** IT Enthusiast, Snowboarder, Hip Hop DJ, Breakdancer<br>
-**I work as:** Co Tech Lead at [axelion AG](https://axelion.ch), Software Engineer at [netider.ch it solutions](https://netider.ch)
+**I work as:** Co Tech Lead at [axelion AG](https://axelion.ch), Software Engineer at [netider.ch it solutions](https://netider.ch)<br>
 **I work on:** Automation, Security (Infrastructure, Software), Cloud Migrations, Endpoint Management<br>
 **Tools I use:** Terraform, Vue, Java, Go, Powershell, Bash<br>
 **Cloud technologies I know very well:** Azure<br>
